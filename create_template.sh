@@ -1,6 +1,6 @@
 #!/bin/bash
 
-touch ./index.html ./script.js
+touch ./index.html ./script.js ./styles.css
 echo "<!DOCTYPE html>
 <html lang='en'>
 <head>
@@ -8,6 +8,7 @@ echo "<!DOCTYPE html>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Document</title>
     <script src='./script.js' defer></script>
+    <link rel='stylesheet' href='./styles.css'>
 </head>
 <body>
 </body>
