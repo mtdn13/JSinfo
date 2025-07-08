@@ -1,0 +1,17 @@
+span {
+  color:green
+}
+
+#container {
+  cursor: pointer;
+}
+
+#list {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.hidden {
+  display: none;
+}
