@@ -1,0 +1,13 @@
+
+highlight {
+  font-weight: bold;
+}
+
+#tree span:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#tree span {
+  user-select: none;
+}
